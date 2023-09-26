@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Visual Studio
+.vs
+bin
+obj
+*.csproj.user
+
+
+# typescript
+**/dist/src/*.d.ts*
+**/dist/src/*.js
+*.tsbuildinfo
